@@ -1,0 +1,13 @@
+{
+  "name": "contact-form-example",
+  "version": "1.0.0",
+  "description": "Send contact form to email",
+  "main": "script.js",
+  "scripts": {
+    "start": "node script.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemailer": "^6.9.1"
+  }
+}
